@@ -1,0 +1,46 @@
+homepagesメモ
+
+理科大のwifiじゃないとホストに接続出来なかったので注意
+
+ホスト名　tusedt000.ed.tus.ac.jp
+
+ユーザ名　torica
+
+パスワード　rikadai2016!
+
+ローカル　C/homepages
+→各自によって異なる
+//////////////////////////////////
+2017/12/07 
+理科大のサーバーでwordpressを使用することが出来なかったので，htmlファイルをローカル環境で作ることにした．
+
+環境s
+windows10
+
+
+使用したソフト
+XAMPP  →macの場合はMAMPがおすすめ
+mysql
+wordpress
+
+error1
+mysqlスタートしない
+http://www.yoshikiminatoya.com/lab/server/3887.html
+
+error2 
+セキリティ設定
+http://hapisupu.com/2015/08/xampp-5-6-11-update-fix/
+本と違って難解でわからん！とりあえず，スルーする
+
+localhost
+databasename:wordpress_cs
+
+
+ホスト
+name:torica
+password:rikadai2016!
+
+wordpressからoutput
+StaticPressの使い方
+http://naokixtechnology.net/wordpress/2480
+
